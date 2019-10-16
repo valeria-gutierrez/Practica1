@@ -133,7 +133,7 @@ sudo forever list<br>
 sudo forever stop PID<br>
 sudo forever start bin/www<br>
 Y con esto se puede checar nuestra API con la IP pública de nuestra maquina virtual<br>
-<img src="https://drive.google.com/file/d/1aCfcrRQid07z5aTdwN5sw8Otfyn8UEKO/view?usp=sharing" alt="API"></p>
+<a href="https://drive.google.com/file/d/1aCfcrRQid07z5aTdwN5sw8Otfyn8UEKO/view?usp=sharing">https://drive.google.com/file/d/1aCfcrRQid07z5aTdwN5sw8Otfyn8UEKO/view?usp=sharing</a></p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
